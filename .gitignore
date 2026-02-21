@@ -1,0 +1,10 @@
+# pixi environments
+.pixi/*
+!.pixi/config.toml
+
+# Rust
+/target/
+
+# Output files
+.bgm_cache/*
+bangumi_export*
